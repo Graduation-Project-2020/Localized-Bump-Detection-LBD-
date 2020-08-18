@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:buttonSize="wide"
+        android:layout_marginTop="16dp"
+        android:layout_centerInParent="true">
+    </com.google.android.gms.common.SignInButton>
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_centerInParent="true"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="16dp"
+         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Or"
+        android:paddingTop="16dp"
+        android:paddingLeft="160dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#4689C8"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:layout_marginTop="16dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#4689C8"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/email_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="email address"
+        android:backgroundTint="#BDBDBD"
+        android:textCursorDrawable="@null"
+        android:inputType="textEmailAddress" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:paddingTop="12dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#4689C8"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="password"
+        android:backgroundTint="#BDBDBD"
+        android:textCursorDrawable="@null"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/login_button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:background="#4689C8"
+        android:textColor="#fff"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:id="@+id/tvSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center_horizontal"
+        android:text="Don`t have an account?, Register here" />
+
+
+
+
+</LinearLayout>

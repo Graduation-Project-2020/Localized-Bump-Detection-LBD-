@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273497317907",
+    "firebase_url": "https://bumpdetector-51a10.firebaseio.com",
+    "project_id": "bumpdetector-51a10",
+    "storage_bucket": "bumpdetector-51a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273497317907:android:224f489522e97f2ea095e6",
+        "android_client_info": {
+          "package_name": "com.example.eslam.bumpdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273497317907-tpkojepl2duoqa0utun7pehc4i2kvdl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eslam.bumpdetector",
+            "certificate_hash": "c2129177157b091a265f38d8c8b9b8e71974b955"
+          }
+        },
+        {
+          "client_id": "273497317907-a4l44oq35a7ohgml2mjppd6pfq1d6tuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZhsQoAMUG44TVVcB9VmU5Bfq3nBGN_Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273497317907-a4l44oq35a7ohgml2mjppd6pfq1d6tuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -20,6 +20,7 @@ Hardware Components:
 - Audio Speaker
 
 The Required Fields: 
+
 ![1](https://user-images.githubusercontent.com/42329717/90502483-2ef92500-e14e-11ea-83a7-00914e05607e.png)
 
 - Deep Learning: to detect bumps on road 

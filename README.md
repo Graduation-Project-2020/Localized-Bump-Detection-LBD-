@@ -6,7 +6,7 @@ Video: https://www.youtube.com/watch?v=6Nk2jFn6L6k
 
 Project Idea: 
 
-The project role is solving the problem of bumps by alerting the driver. If there is a bump for a first time, our device can detect it by deep learning and send a signal to the HMI system to alert the driver and when the car is on the detected bump, our device saves its location by using IMU and GPS and added to the database that uploading on IoT cloud. If there is a bump that saved on the database, our device will alert the driver from away distance even if the deep learning model does not detect it. There is also a mobile applicaton that sends a notification to the drive if he does not have the device. 
+The project role is solving the problem of bumps by alerting the driver. If there is a bump for a first time, our device can detect it by deep learning and send a signal to the HMI system to alert the driver and when the car is on the detected bump, our device saves its location by using IMU and GPS and added to the database that uploading on IoT cloud. If there is a bump that saved on the database, our device will alert the driver from away distance even if the deep learning model does not detect it. There is also a mobile applicaton that sends a notification to the driver if he does not have the device. 
 
 Hardware Components: 
 ![5](https://user-images.githubusercontent.com/42329717/90502555-5223d480-e14e-11ea-9446-fb3ea2d1f5a0.png)

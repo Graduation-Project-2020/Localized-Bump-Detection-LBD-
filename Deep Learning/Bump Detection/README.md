@@ -1,5 +1,4 @@
-## Road Bump Detection -- using a Deep Learning Model
+# Road Bump Detection -- using a Deep Learning Model
 
-
-# Check the output here: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kqT52hL7pLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Check the output of the object detection model here: 
+https://www.youtube.com/watch?v=kqT52hL7pLM&feature=youtu.be

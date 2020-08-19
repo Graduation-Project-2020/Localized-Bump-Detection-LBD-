@@ -1,14 +1,13 @@
-# Localized-Bump-Detection-LBD-
+# Localized Bump Detection (LBD)
 
 Localized Bump Detection (LBD) Graduation Project 2020
 
 Video: https://www.youtube.com/watch?v=6Nk2jFn6L6k
 
-Project Idea: 
-
+### Project Idea: 
 The role of the project is solving the problem of road bumps by alerting the driver. If a bump is detected for the first time, our device can detect it using a deep learning model and send a signal to the HMI system to alert the driver and when the car passes over the detected bump, our device saves the location by using IMU and GPS then added to the database connected to an IoT cloud. If there is a bump is encountered for a second time, our device will alert the driver from a further distance even if the deep learning model does not detect it. There is also a mobile applicaton that sends a notification to the driver if he does not have the device.
 
-Hardware Components: 
+### Hardware Components: 
 ![5](https://user-images.githubusercontent.com/42329717/90502555-5223d480-e14e-11ea-9446-fb3ea2d1f5a0.png)
 
 - NVIDIA Jetson Nano 
@@ -19,8 +18,7 @@ Hardware Components:
 - TFT Touch Screen
 - Audio Speaker
 
-The Required Fields: 
-
+### The Required Fields: 
 ![1](https://user-images.githubusercontent.com/42329717/90502483-2ef92500-e14e-11ea-83a7-00914e05607e.png)
 
 - Deep Learning: to detect bumps on the road 
@@ -39,5 +37,4 @@ Supervisor: Dr. Aida A. Elshafie
 
 
 
-                    
-    
+       

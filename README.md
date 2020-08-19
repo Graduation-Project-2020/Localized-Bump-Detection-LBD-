@@ -29,7 +29,7 @@ The role of the project is solving the problem of road bumps by alerting the dri
 - Mobile Application: If the user does not have the device, he can download the mobile application and get a notification if there is a bump nearby.
                       But the user that only has the mobile application can not get a notification if the bump is not saved in the database.
                       
-Graduation Project of Electronics and Communication Department at Faculty of Engineering, Alexandria University.
+A Graduation Project from the Electronics and Communication Department at Faculty of Engineering, Alexandria University.
 
 Supervisor: Dr. Aida A. Elshafie
 

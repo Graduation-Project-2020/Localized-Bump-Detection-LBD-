@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=kqT52hL7pLM&feature=youtu.be
 - This is where we trained the model on COLAB using the TensorFlow object detection API.
 
 ### TRT_Optimize.ipynb
-- This is where we convert the fronzen TensorFlow graph to a TensorRT accelerated model.
+- This is where we convert the frozen TensorFlow graph to a TensorRT accelerated model.
 
 ### TRT_Inference_ZED.ipynb
 - This is where we use the model during the inference operation (final deployment).

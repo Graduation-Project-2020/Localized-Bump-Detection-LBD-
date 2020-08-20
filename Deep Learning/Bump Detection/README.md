@@ -13,6 +13,6 @@ https://www.youtube.com/watch?v=kqT52hL7pLM&feature=youtu.be
 
 ### TRT_Inference_ZED.ipynb
 - This is where we use the model during the inference operation (final deployment).
-- This file uses imports the **helper_functions.py** file
+- This file uses the **helper_functions.py** file
 
 

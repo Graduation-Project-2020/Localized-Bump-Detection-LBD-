@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DATA</title>
+    <script></script>
+    <style>
+        table,th,td {border: 1px solid #676767}
+        table{width:800px}
+        thead td{font-weight:bold;text-align: center;}
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Latitude</td>
+                <td>Longitude</td>
+                
+            </tr>
+        </thead>
+    {%for locations in mylocations%}
+    <tr>
+        <td>{{locations.id}}</td>
+        <td>{{locations.latitude}}</td>
+        <td>{{locations.longitude}}</td>
+        
+    </tr>
+    {% endfor %}
+
+</table>
+</body>
+</html>

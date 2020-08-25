@@ -4,6 +4,8 @@ Localized Bump Detection (LBD) Graduation Project 2020
 
 Video: https://www.youtube.com/watch?v=6Nk2jFn6L6k
 
+Book: https://drive.google.com/file/d/1sHLtBGrI8MkGyAJ4rMYM7KWyafRsVT3F/view?usp=sharing
+
 ### Project Idea: 
 The role of the project is solving the problem of road bumps by alerting the driver. If a bump is detected for the first time, our device can detect it using a deep learning model and send a signal to the HMI system to alert the driver and when the car passes over the detected bump, our device saves the location by using IMU and GPS then added to the database connected to an IoT cloud. If there is a bump is encountered for a second time, our device will alert the driver from a further distance even if the deep learning model does not detect it. There is also a mobile applicaton that sends a notification to the driver if he does not have the device.
 

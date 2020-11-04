@@ -35,6 +35,9 @@ A Graduation Project from the Electronics and Communication Department at Facult
 
 Supervisor: Dr. Aida A. Elshafie
 
+Mentor: Eng. Mahmoud Serour (ADAS R&D Engineer – Brightskies technologies)
+
+Mentor: Eng. Mohamed ElAwady (Senior Software Engineer – Valeo Egypt)
 
 
 
